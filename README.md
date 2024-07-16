@@ -53,7 +53,7 @@ Copy your API key from the dashboard.
 ```sh
 python Problem_6.py
 ```
-# Here are the result of problem_6
+# Here are results of problem_6
 ![image](https://github.com/user-attachments/assets/e0f4b767-9094-42b5-9b2f-a5da8d5ddbb8)
 ![image](https://github.com/user-attachments/assets/36c7443d-411d-44d1-b034-2a5cbd3ad586)
 
